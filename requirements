@@ -1,4 +1,6 @@
-streamlit==1.28.0
-matplotlib==3.7.0
-numpy==1.24.0
-pandas==2.0.0
+sales-analysis-app/
+├── sales_app.py
+├── requirements.txt          # 更新这个文件
+├── .streamlit/
+│   └── config.toml
+└── README.md
